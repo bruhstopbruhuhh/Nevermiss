@@ -42,7 +42,7 @@ Join our vibrant Roblox-Bot community to connect with fellow gamers, share tips 
 
 If you encounter any issues with Nevermiss or have questions about its features, our support team is here to help. Reach out to us through the following channels:
 
-📧 **Email:** support@nevermiss.com
+📧 **Email:** support@nevermiss.com  
 🐦 **Twitter:** [@NevermissSupport](https://twitter.com/NevermissSupport)
 
 ## License
